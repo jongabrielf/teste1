@@ -1,0 +1,6 @@
+{
+  "name": "Remix: RGB Flash",
+  "description": "Uma aplicação simples que pisca cores RGB ao tocar na tela. Toque duas vezes para encerrar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
